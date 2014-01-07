@@ -1,0 +1,10 @@
+# Editor files
+*~
+\#*\#
+.DS_Store
+
+# Output
+xbeetest
+*.o
+*.a
+*.dSYM
